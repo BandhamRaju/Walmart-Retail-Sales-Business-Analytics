@@ -97,7 +97,7 @@ walmart_retail_sales_business_analytics_project/
 
 ## 📊 Dashboard
 
-![Dashboard](reports/walmart_sales_performance_dashboard.png)
+![Dashboard](reports/walmart_sales_performanc_dashboard.png)
 
 ---
 
