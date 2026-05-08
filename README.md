@@ -245,4 +245,4 @@ Raju Bandham
 ### 🔗 Connect With Me
 
 - GitHub: https://github.com/BandhamRaju
-- LinkedIn: Add Your LinkedIn Profile Link
+- LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7458584893778939904/
