@@ -134,7 +134,7 @@ walmart_retail_sales_business_analytics_project/
 - Unemployment vs Weekly Sales
 
 ### 📅 Trend Analysis
-
+![visuals](box_plot_sales.png)
 - Monthly Sales Trend
 - Yearly Sales Trend
 
