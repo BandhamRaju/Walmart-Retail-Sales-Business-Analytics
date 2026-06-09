@@ -117,7 +117,7 @@ The objective is to identify sales trends, evaluate holiday impact, analyze stor
 
 ## 📈 Dashboard Preview
 
-![Walmart Dashboard](reports/walmart_sales_performance_dashboard.png)
+![Dashboard](reports/walmart_sales_performance_dashboard.png)
 
 ---
 
