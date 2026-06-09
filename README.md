@@ -15,7 +15,24 @@ The project includes:
 - Interactive Power BI Dashboard
 
 ---
+## Dataset Information
 
+- Source: Walmart Retail Dataset
+- Records: 6,435
+- Stores: 45
+- Period: 2010–2012
+
+Columns:
+- Store
+- Weekly_Sales
+- Holiday_Flag
+- Temperature
+- Fuel_Price
+- CPI
+- Unemployment
+- Date
+
+---
 ## 🛠️ Tools Used
 
 - Python
