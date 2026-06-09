@@ -224,7 +224,7 @@ https://github.com/BandhamRaju
 
 ### LinkedIn
 
-https://www.linkedin.com/in/raju-bandham-897125337
+https://www.linkedin.com/in/raju-bandham
 
 ### Email
 
